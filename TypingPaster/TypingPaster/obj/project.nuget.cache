@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSueVjlmN6gvnEI03pVLjty6GU7qX6QdNnKOzAFCsHzOq9CjraVVqCfMb1FRJUdHauuRwMacDw6btdMOurXkmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Clients\\Applaud-Technologies\\TypingPaster\\TypingPaster\\TypingPaster\\TypingPaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rscla\\.nuget\\packages\\globalhotkey\\1.1.0\\globalhotkey.1.1.0.nupkg.sha512",
+    "C:\\Users\\rscla\\.nuget\\packages\\inputsimulatorcore\\1.0.5\\inputsimulatorcore.1.0.5.nupkg.sha512",
+    "C:\\Users\\rscla\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rscla\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GlobalHotKey 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GlobalHotKey",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
